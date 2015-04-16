@@ -56,8 +56,6 @@ SITE_ID = 1
 
 EMAIL_USE_TLS = True
 EMAIL_HOST = 'smtp.gmail.com'
-EMAIL_HOST_USER = 'piperplatform@gmail.com'
-EMAIL_HOST_PASSWORD = 'adminteam5'
 EMAIL_PORT = 587
 
 DEFAULT_FROM_EMAIL = 'piperplatform@gmail.com'
