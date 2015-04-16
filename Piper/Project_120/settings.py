@@ -87,9 +87,9 @@ WSGI_APPLICATION = 'Project_120.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'piperdb',
-        'USER': 'piperadmin',
-        'PASSWORD': 'adminpassword',
+        'NAME':,
+        'USER': ,
+        'PASSWORD': ,
         'HOST': 'piperdbinstance.cop4dkmckeiy.us-east-1.rds.amazonaws.com',
         'PORT': '5432',
     }
